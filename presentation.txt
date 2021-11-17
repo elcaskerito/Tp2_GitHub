@@ -1,5 +1,5 @@
 idris
-je suis idris mahamat albachar lakhany
+je fffsuis idris mahamat albachar lakhany
 
 
 
@@ -25,7 +25,7 @@ bonjour je m'appel abakr
 
 ronelyam
 coucou 
-
+rr
 
 
 
@@ -47,3 +47,5 @@ hola todo modo: mi nombre es nassir y encontado de conecerle
 
 
 clotilde
+salut, moi c'est clotilde. 
+
